@@ -1,0 +1,7 @@
+D:\R45\Ex_03\Project_Worker_Solution\Project_01\bin\Debug\Project_01.exe.config
+D:\R45\Ex_03\Project_Worker_Solution\Project_01\bin\Debug\Project_01.exe
+D:\R45\Ex_03\Project_Worker_Solution\Project_01\bin\Debug\Project_01.pdb
+D:\R45\Ex_03\Project_Worker_Solution\Project_01\obj\Debug\Project_01.csprojAssemblyReference.cache
+D:\R45\Ex_03\Project_Worker_Solution\Project_01\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+D:\R45\Ex_03\Project_Worker_Solution\Project_01\obj\Debug\Project_01.exe
+D:\R45\Ex_03\Project_Worker_Solution\Project_01\obj\Debug\Project_01.pdb
